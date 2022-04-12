@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Name: "Arun Goyal"
+Student # S2130744-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/roadworks"
+        android:title="Roadworks"
+        android:icon="@drawable/ic_roadworks"/>
+
+    <item
+        android:id="@+id/plannedRoadworks"
+        android:title="Planned Roadworks"
+        android:icon="@drawable/ic_plannedroadworks"/>
+
+    <item
+        android:id="@+id/currentIncidents"
+        android:title="Current Incidents"
+        android:icon="@drawable/ic_currentincidents"/>
+</menu>
